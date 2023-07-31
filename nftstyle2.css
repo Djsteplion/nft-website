@@ -170,6 +170,7 @@
     display:none;
 }
 .button{
+    margin:0px;
     display: block;
   padding: 5px 10px;
   font-weight: 100;
